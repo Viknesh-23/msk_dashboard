@@ -1,0 +1,6 @@
+torch>=2.0
+numpy
+opencv-python-headless
+pandas
+streamlit>=1.30
+tqdm
